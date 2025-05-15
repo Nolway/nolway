@@ -5,7 +5,7 @@
 * 🧰 I'm skilled in **Nest.js**, **PostgreSQL**, **Docker**, and **Kubernetes (EKS)**.
 * 🎮 I’ve developed a variety of custom systems for **Minecraft servers**, especially in world-building and gameplay mechanics.
 * 🛠 I love clean code, automation, and optimizing developer experience.
-* 🧪 I write unit/integration tests with **Vitest**, manage CI/CD with **GitLab**, and aim for production-ready code.
+* 🧪 I write unit/integration tests with **Vitest**, manage CI/CD with **Github** or **GitLab**, and aim for production-ready code.
 
 ### 🛠️ Technologies & Tools
 
