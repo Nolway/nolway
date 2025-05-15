@@ -2,7 +2,7 @@
 
 * 🧠 I’m a French full stack developer with a strong focus on **TypeScript**, **Node.js**, and **Svelte**.
 * 🏗 I build reliable, scalable web applications — from backend APIs to pixel-perfect frontends.
-* \*🧰 I'm skilled in **Nest.js**, **PostgreSQL**, **Docker**, and **Kubernetes (EKS)**.
+* 🧰 I'm skilled in **Nest.js**, **PostgreSQL**, **Docker**, and **Kubernetes (EKS)**.
 * 🎮 I’ve developed a variety of custom systems for **Minecraft servers**, especially in world-building and gameplay mechanics.
 * 🛠 I love clean code, automation, and optimizing developer experience.
 * 🧪 I write unit/integration tests with **Vitest**, manage CI/CD with **GitLab**, and aim for production-ready code.
